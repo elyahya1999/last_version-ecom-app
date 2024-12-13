@@ -46,13 +46,6 @@ Découverte de service : Spring Cloud Eureka
 Passerelle API : Spring Cloud Gateway
 Configuration centralisée : Spring Cloud Config Server
 Outils de build : Maven
-## Installation et Configuration
-Cloner le dépôt :
-git clone https://github.com/votre-repo/application-ecommerce.git
-cd application-ecommerce
-Lancer les microservices :
-
-
 ## Exécution
 Ordre de démarrage :
 
