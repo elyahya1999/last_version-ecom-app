@@ -25,10 +25,6 @@ cd application-ecommerce
 2-Lancer les microservices 
 3-Configurer le Discovery Service 
 
-Je vais analyser le contenu du fichier téléchargé pour générer un README adapté. Veuillez patienter pendant que je procède à l'extraction et à l'analyse du projet.
-
-Voici un README pour votre projet backend basé sur l'exploration des fichiers :
-
 Application E-commerce - Backend
 Description du Projet
 Ce projet constitue la partie backend d'une application e-commerce distribuée. Il comprend plusieurs microservices pour la gestion des clients, produits, facturations, et une passerelle API. Ce backend expose des APIs RESTful et implémente une architecture basée sur les microservices pour une meilleure scalabilité et maintenance.
